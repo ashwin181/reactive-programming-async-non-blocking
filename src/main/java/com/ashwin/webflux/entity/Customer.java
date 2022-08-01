@@ -1,4 +1,4 @@
-package com.ashwin.webflux.dto;
+package com.ashwin.webflux.entity;
 
 public class Customer {
 	

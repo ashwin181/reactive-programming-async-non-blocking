@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.ashwin.webflux.dao.CustomerDao;
-import com.ashwin.webflux.dto.Customer;
+import com.ashwin.webflux.entity.Customer;
 
 import reactor.core.publisher.Flux;
 

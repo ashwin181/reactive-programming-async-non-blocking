@@ -2,7 +2,7 @@ package com.ashwin.webflux.dao;
 
 import org.springframework.stereotype.Component;
 
-import com.ashwin.webflux.dto.Customer;
+import com.ashwin.webflux.entity.Customer;
 
 import reactor.core.publisher.Flux;
 

@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ashwin.webflux.dto.Customer;
+import com.ashwin.webflux.entity.Customer;
 import com.ashwin.webflux.service.CustomerService;
 
 import reactor.core.publisher.Flux;
